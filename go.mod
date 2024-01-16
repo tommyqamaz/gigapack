@@ -1,4 +1,4 @@
-module gigapack
+module github.com/tommyqamaz/gigapack
 
 go 1.21.5
 
